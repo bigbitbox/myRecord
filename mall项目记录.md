@@ -1,0 +1,3 @@
+# mall项目记录
+
+IDEA的jrebel插件和ResetfulTool插件至少能提高一半的学习效率，必用
